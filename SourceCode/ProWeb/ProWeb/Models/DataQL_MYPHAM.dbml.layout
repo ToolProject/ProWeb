@@ -135,10 +135,10 @@
         <elementListCompartment Id="ef5fbf6a-86f7-45dd-a47b-a3fb9a4ca9c5" absoluteBounds="8.89, 9.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
       </nestedChildShapes>
     </classShape>
-    <classShape Id="950732b9-5861-4c6f-99f3-e59bb0b2ccf6" absoluteBounds="1.75, 0.625, 2, 1.5785953776041666">
+    <classShape Id="950732b9-5861-4c6f-99f3-e59bb0b2ccf6" absoluteBounds="0.5, 0.625, 2, 1.5785953776041666">
       <DataClassMoniker Name="/DataQL_MYPHAMDataContext/XEM_CTDH" />
       <nestedChildShapes>
-        <elementListCompartment Id="b9dd4468-5eea-4bf5-ba9d-009977ccb93f" absoluteBounds="1.7650000000000001, 1.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+        <elementListCompartment Id="b9dd4468-5eea-4bf5-ba9d-009977ccb93f" absoluteBounds="0.51500000000000012, 1.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
       </nestedChildShapes>
     </classShape>
   </nestedChildShapes>
