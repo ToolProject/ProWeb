@@ -1,0 +1,121 @@
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\ProWeb.dll.config
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\ProWeb.dll
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\ProWeb.pdb
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\Antlr3.Runtime.dll
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\EntityFramework.dll
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\EntityFramework.SqlServer.dll
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\Microsoft.Owin.dll
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\Microsoft.Owin.Security.dll
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\Microsoft.Owin.Security.Google.dll
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\Microsoft.Web.Infrastructure.dll
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\Newtonsoft.Json.dll
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\Owin.dll
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\System.Web.Helpers.dll
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\System.Web.Mvc.dll
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\System.Web.Optimization.dll
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\System.Web.Razor.dll
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\System.Web.WebPages.Deployment.dll
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\System.Web.WebPages.dll
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\System.Web.WebPages.Razor.dll
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\WebGrease.dll
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\System.Web.Helpers.xml
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\System.Web.Mvc.xml
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\System.Web.Optimization.xml
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\System.Web.Razor.xml
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\System.Web.WebPages.xml
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\System.Web.WebPages.Deployment.xml
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\System.Web.WebPages.Razor.xml
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\Newtonsoft.Json.xml
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\Antlr3.Runtime.pdb
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\EntityFramework.xml
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\EntityFramework.SqlServer.xml
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\Microsoft.Owin.xml
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\Microsoft.Owin.Security.xml
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\Microsoft.Owin.Security.Google.xml
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\obj\Debug\ProWeb.csprojResolveAssemblyReference.cache
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\obj\Debug\ProWeb.dll
+c:\users\hoang\onedrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\obj\Debug\ProWeb.pdb
+C:\Users\hoang\OneDrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\CKEditor.NET.dll
+C:\Users\hoang\OneDrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\CKEditor.NET.pdb
+C:\Users\hoang\OneDrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\PagedList.dll
+C:\Users\hoang\OneDrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\PagedList.Mvc.dll
+C:\Users\hoang\OneDrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\PagedList.xml
+C:\Users\hoang\OneDrive\documents\visual studio 2013\Projects\ProWeb\ProWeb\bin\PagedList.Mvc.xml
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\ProWeb.dll.config
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\ProWeb.dll
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\ProWeb.pdb
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\Antlr3.Runtime.dll
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\EntityFramework.dll
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\EntityFramework.SqlServer.dll
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\Microsoft.Owin.dll
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\Microsoft.Owin.Security.dll
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\Microsoft.Owin.Security.Google.dll
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\Microsoft.Owin.Security.Twitter.dll
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\Newtonsoft.Json.dll
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\Owin.dll
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\PagedList.dll
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\PagedList.Mvc.dll
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\System.Web.Helpers.dll
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\System.Web.Mvc.dll
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\System.Web.Optimization.dll
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\System.Web.Razor.dll
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\System.Web.WebPages.Deployment.dll
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\System.Web.WebPages.dll
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\System.Web.WebPages.Razor.dll
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\WebGrease.dll
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\CKEditor.NET.pdb
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\PagedList.xml
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\PagedList.Mvc.xml
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\System.Web.Helpers.xml
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\System.Web.Mvc.xml
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\System.Web.Optimization.xml
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\System.Web.Razor.xml
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\System.Web.WebPages.xml
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\System.Web.WebPages.Deployment.xml
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\System.Web.WebPages.Razor.xml
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\Newtonsoft.Json.xml
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\Antlr3.Runtime.pdb
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\EntityFramework.xml
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\EntityFramework.SqlServer.xml
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\Microsoft.Owin.xml
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\Microsoft.Owin.Security.xml
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\Microsoft.Owin.Security.Google.xml
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\Microsoft.Owin.Security.Twitter.xml
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\obj\Debug\ProWeb.csprojResolveAssemblyReference.cache
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\obj\Debug\ProWeb.dll
+D:\KHANH_DUY\congcu\CONGCU-MOITRUONG-PM\SourceCode\ProWeb\ProWeb\obj\Debug\ProWeb.pdb
